@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="RepoLink.5e87825c-6531-45fc-99f3-77e3de0e18db" Version="1.0" Language="en-US" Publisher="Armando Aguirre" />
-        <DisplayName>Git Repo Link</DisplayName>
+        <DisplayName>Repo Link</DisplayName>
         <Description xml:space="preserve">Visual Studio extension that  allowes so copy a link to the repository file of the current caret position.</Description>
         <License>LICENSE</License>
         <Icon>Resources\Icon.png</Icon>

@@ -1,8 +1,8 @@
 # Repo Link
 Visual Studio extension that allows to copy a link to the repository file of the current caret position.
 
-## Gettin started
- 1. Put the cursor on a code line you want to have an hyperlink.
+## Getting started
+ 1. Put the cursor on a code line you want to have a hyperlink.
  1. Click on `Tools>Copy Repo Link`.
  1. The hyperlink will be copied to the clipboard.
 
