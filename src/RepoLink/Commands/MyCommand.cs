@@ -2,7 +2,7 @@
 using System.IO;
 using System.Windows;
 
-namespace GitRepoLink
+namespace RepoLink
 {
     [Command(PackageIds.MyCommand)]
     internal sealed class MyCommand : BaseCommand<MyCommand>

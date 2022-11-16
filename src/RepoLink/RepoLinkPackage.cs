@@ -5,13 +5,13 @@ global using Task = System.Threading.Tasks.Task;
 using System.Runtime.InteropServices;
 using System.Threading;
 
-namespace GitRepoLink
+namespace RepoLink
 {
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
     [InstalledProductRegistration(Vsix.Name, Vsix.Description, Vsix.Version)]
     [ProvideMenuResource("Menus.ctmenu", 1)]
-    [Guid(PackageGuids.GitRepoLinkString)]
-    public sealed class GitRepoLinkPackage : ToolkitPackage
+    [Guid(PackageGuids.RepoLinkString)]
+    public sealed class RepoLinkPackage : ToolkitPackage
     {
         protected override async Task InitializeAsync(CancellationToken cancellationToken, IProgress<ServiceProgressData> progress)
         {

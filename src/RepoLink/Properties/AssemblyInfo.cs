@@ -1,4 +1,4 @@
-﻿using GitRepoLink;
+﻿using RepoLink;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
