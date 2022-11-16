@@ -21,7 +21,7 @@
         <Icon guid="ImageCatalogGuid" id="CopyWebSite" />
         <CommandFlag>IconIsMoniker</CommandFlag>
         <Strings>
-          <ButtonText>Copy repo link</ButtonText>
+          <ButtonText>Copy Repo Link</ButtonText>
           <LocCanonicalName>.GitRepoLink.MyCommand</LocCanonicalName>
         </Strings>
       </Button>
